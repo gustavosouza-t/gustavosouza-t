@@ -54,7 +54,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guicybercode&theme=tokyo-night&bg_color=0d1117&color=ffffff&line=808080&point=cccccc&area=true&hide_border=false&border_color=333333&custom_title=Contribution%20Graph&radius=15" alt="Contribution Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavosouza-t&theme=tokyo-night&bg_color=0d1117&color=ffffff&line=808080&point=cccccc&area=true&hide_border=false&border_color=333333&custom_title=Contribution%20Graph&radius=15" alt="Contribution Graph" width="90%"/>
 </p>
 
 
